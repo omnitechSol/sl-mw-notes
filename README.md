@@ -6,5 +6,7 @@
 - Version Control using Git and GitHub
 - CICD Fundamentals and Jenkins
 - Configuration Management using Ansible
-- Containerization using Docker Fundamentals
-- DevOps on AWS
+- Containerization
+    - Docker Fundamentals
+    - Kubernetes Fundamentals
+- Fundamentals of Cloud computing using AWS
